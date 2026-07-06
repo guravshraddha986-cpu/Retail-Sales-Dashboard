@@ -1,27 +1,26 @@
-# Retail Sales Dashboard
+# 📊 Retail Sales Dashboard
 
-## Overview
+## Project Overview
 
-This project is an interactive Retail Sales Dashboard built using Power BI.
+This project is an interactive Retail Sales Dashboard developed using Microsoft Power BI.
 
-It provides insights into:
+It helps analyze:
 
-- Total Sales
-- Total Profit
-- Total Orders
+- Sales Performance
+- Profit Analysis
 - Customer Analysis
-- Regional Performance
-- Product Category Analysis
+- Regional Sales
+- Product Category Performance
 
 ---
 
-## Dashboard
+# Dashboard Preview
 
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
-## KPIs
+# KPIs
 
 - Total Sales
 - Total Profit
@@ -32,16 +31,18 @@ It provides insights into:
 
 ---
 
-## Charts
+# Visualizations
 
 - Sales by Region
 - Sales by Category
-- Sales by Product
-- Sales by Segment
+- Monthly Sales Trend
+- Top Products
+- Customer Segment
+- Customer Details Table
 
 ---
 
-## Filters
+# Filters
 
 - Region
 - Category
@@ -49,21 +50,31 @@ It provides insights into:
 
 ---
 
-## Tools Used
+# Tools Used
 
-- Power BI
-- Excel
-- DAX
+- Microsoft Power BI
+- Microsoft Excel
 - Power Query
+- DAX
+- GitHub
 
 ---
 
-## Files
+# Dataset
+
+Retail Sales Dataset (500 Records)
+
+---
+
+# Files Included
 
 Retail_Sales_Dashboard.pbix
 
 Retail_Sales_Dataset.xlsx
 
-README.md
+Dashboard.png
 
 ---
+
+
+
