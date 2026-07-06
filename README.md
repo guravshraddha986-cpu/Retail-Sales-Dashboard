@@ -16,7 +16,7 @@ It helps analyze:
 
 # Dashboard Preview
 
-![Dashboard.png.png]
+!Dashboard.png.png
 
 ---
 
